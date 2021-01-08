@@ -1,3 +1,4 @@
 telethon
 yadisk-async
 python-dotenv
+tgcrypto
